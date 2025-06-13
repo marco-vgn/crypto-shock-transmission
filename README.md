@@ -42,4 +42,4 @@ crypto-shock-map/
 Distributed under the MIT License. See LICENSE for more information.
 
 ✍️ **Author**
-Marco Villagrán – @yourusername
+Marco Villagrán – @marco-vgn
